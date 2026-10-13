@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="CircloPos.Catalog.Api/CircloPos.Catalog.Api.csproj" />
+  <Project Path="CircloPos.Catalog.Application/CircloPos.Catalog.Application.csproj" />
+  <Project Path="CircloPos.Catalog.Domain/CircloPos.Catalog.Domain.csproj" />
+  <Project Path="CircloPos.Catalog.Insfrastructure/CircloPos.Catalog.Insfrastructure.csproj" />
+</Solution>
